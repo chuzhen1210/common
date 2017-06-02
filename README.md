@@ -1,2 +1,2 @@
-# lib
-java 3rd lib
+# common
+java common
